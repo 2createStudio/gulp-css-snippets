@@ -6,6 +6,8 @@ Gulp module for CSS snippets require from remote server.
 ## Usage
 In your `gulpfile.js`:
 ```
+var cssSnippets = require('gulp-css-snippets');
+
 gulp.src('./css/snippet-require.css')
 	.pipe(cssSnippets({
 	    fileName: 'snippet-components.css',
