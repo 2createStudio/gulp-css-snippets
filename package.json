@@ -1,0 +1,25 @@
+{
+  "name": "gulp-css-snippets",
+  "version": "1.0.0",
+  "description": "Gulp module for CSS snippets require from remote server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2createStudio/gulp-css-snippets.git"
+  },
+  "keywords": [
+    "gulp",
+    "css",
+    "require",
+    "snippets"
+  ],
+  "author": "2create",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2createStudio/gulp-css-snippets/issues"
+  },
+  "homepage": "https://github.com/2createStudio/gulp-css-snippets#readme"
+}
