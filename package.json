@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-snippets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp module for CSS snippets require from remote server",
   "main": "index.js",
   "scripts": {
