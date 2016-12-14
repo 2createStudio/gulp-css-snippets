@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/2createStudio/gulp-css-snippets/issues"
   },
-  "homepage": "https://github.com/2createStudio/gulp-css-snippets#readme"
+  "homepage": "https://github.com/2createStudio/gulp-css-snippets#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "request": "^2.79.0",
+    "through2": "^2.0.3",
+    "vinyl": "^2.0.1"
+  }
 }
